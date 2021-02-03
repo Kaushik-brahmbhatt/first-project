@@ -10,6 +10,11 @@ When you're done, you can delete the content in this README and update the file 
 
 You’ll start by editing this README file to learn how to edit a file in Bitbucket.
 
+1. Click the **New file** button at the top of the **Source** page.
+2. Give the file a filename of **contributors.txt**.
+3. Enter your name in the empty file space.
+4. Click **Commit** and then **Commit** again in the dialog.
+5. Go back to the **Source** page.
 1. Click **Source** on the left side.
 2. Click the README.md link from the list of files.
 3. Click the **Edit** button.
